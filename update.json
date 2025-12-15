@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.2.0",
-  "changelog": "\n- 新增客戶\n- 教育訓練\n",
+  "latest_version": "1.2.1",
+  "changelog": "修改了新增客戶的 bug 💩",
   "platforms": {
     "windows": {
       "enabled": true
