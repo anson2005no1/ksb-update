@@ -6,7 +6,7 @@
       "enabled": true
     },
     "mac": {
-      "enabled": false
+      "enabled": true
     }
   }
 }
