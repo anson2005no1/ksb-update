@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.3.0",
+  "latest_version": "1.3.5",
   "changelog": "修改了新增客戶的 bug",
   "platforms": {
     "win": {
       "enabled": true,
-      "filename": "KSB-v1.3.0-win.zip"
+      "filename": "KSB-v1.3.5-win.zip"
     },
     "mac": {
       "enabled": true,
-      "filename": "KSB-v1.3.0-mac.zip"
+      "filename": "KSB-v1.3.5-mac.zip"
     }
   }
 }
